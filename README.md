@@ -20,5 +20,5 @@ Please note that the Chrome Profile Creator is provided as-is and for educationa
 
 ## Copyright
 
-© 2023 **AlifBot**  
-Visit our website at [**www.alifbot.com**](https://www.alifbot.com) for more information about our products and services.
+© 2023 **AlifBots**  
+Visit our website at [**www.alifbots.com**](https://www.alifbots.com) for more information about our products and services.
